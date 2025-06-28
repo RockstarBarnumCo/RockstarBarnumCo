@@ -1,38 +1,53 @@
-# 👑 Rockstar Barnum | Founder, Preservation Technologist, and Bridge-Builder
+# 🌐 Rockstar Barnum | Founder, Global Technologist & Preservation Strategist
 
 > “History belongs to the bold. The future, to those who dare to code it.”
 
-Welcome to the personal headquarters of **Rockstar Barnum**—where preservation meets innovation, and open-source dreams build real-world impact.  
-From the streets of Bridgeport to the shores of Phoenicia, I’m leading projects that bridge ancient legacy and AI-powered futures.
+Welcome to the official GitHub headquarters of **Rockstar Barnum & Co.** — a command center for AI-powered innovation, preservation logistics, and smart city development.
+
+From Bridgeport, CT to Beirut and Gaza, I'm designing tools to protect the past while building the infrastructure for a decentralized, open-source future.
 
 ---
 
-### 🌍 What I Do
+### ⚙️ What I Build
 
-- **Founder & CEO** [Rockstar Barnum & Co.](https://rockstarbarnum.com)
-- **Creator** of Preservation STARZ | Phoenecia Online | RockstarAI
-- **Champion** of open-source tech for social good, diaspora empowerment, and smart city innovation
-- **Partner** with global and local organizations to deliver tools, education, and economic opportunities
-
----
-
-### 🚀 What Drives Me
-
-- Building tech that honors the past and empowers the next generation
-- Automating equity—AI, SaaS, and fintech for real-world progress
-- Fighting for heritage, humanitarian solutions, and the right to create
+- **🧠 AI Operations** via [Rockstar Barnum & Co.](https://rockstarbarnum.com) – Internal bots (Helen, Mira) powered by OpenAI & Firebase
+- **🏛️ Preservation Platforms** → Preservation STARZ | Phoenecia Online
+- **🛰️ Smart City Labs** – Live deployments from Bridgeport’s Remington HQ to UNESCO conflict zones
+- **📊 Command Dashboards** – Real-time ops via Firebase + Vercel at [dashboard.rockstarhq.com](https://dashboard.rockstarhq.com)
+- **🧰 Developer Stack Sync** – Firebase ↔ GitHub ↔ Vercel ↔ Stripe ↔ Gmail ↔ Meta
 
 ---
 
-### 🛠️ My Stack
+### 💡 What Drives Me
 
-- **Core:** Python, JavaScript/TypeScript, Node.js, Firebase/Firestore, Vercel, GitHub Actions
-- **Workflow:** Canva, Notion, Meta API, Stripe, Chase, PayPal, WhatsApp Business
-- **Specialties:**- 👋 Hi, I’m @RockstarBarnumCo
+- Building AI for historic resilience, not disruption
+- Connecting diaspora economies through automation
+- Protecting cultural legacy via open-source tech
+- Partnering globally to deploy real-world smart infrastructure
 
-  
+---
 
-<!---
-RockstarBarnumCo/RockstarBarnumCo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🧪 Stack + Ops
+
+| Area          | Stack                                                                 |
+|---------------|-----------------------------------------------------------------------|
+| **Core**      | TypeScript, Node.js, Firebase, Firestore, Vercel, GitHub Actions     |
+| **Ops**       | OpenAI API, Stripe, Gmail API, Meta API, GenKit, Notion, Canva       |
+| **Bots**      | Helen (internal ops), Mira (onboarding), Databot (user enrichment)   |
+| **Infra**     | Admin panel, scheduled syncs, webhooks, multi-brand Firebase projects|
+| **Live Apps** | `admin.rockstarhq.com`, `preservationstarz.online`, `phoenecia.online`|
+
+---
+
+### 🤝 Let’s Collaborate
+
+I'm actively:
+- Working with city/state govs, diaspora communities, & partner orgs
+- Open to funding, co-development, and public-private preservation projects
+- Expanding smart city frameworks across Lebanon, Palestine, and U.S. hubs
+
+> 📩 Reach me directly via `admin@rockstarbarnum.com`
+
+---
+
+🪙 _“Preserve the past. Automate the future.”_ — Rockstar Barnum
