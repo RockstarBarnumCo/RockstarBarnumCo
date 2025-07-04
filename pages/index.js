@@ -1,8 +1,8 @@
 export default function Home() {
   return (
-    <main className="min-h-screen bg-slate-950 text-white flex flex-col items-center justify-center">
+    <main className="min-h-screen bg-slate-950 text-white flex flex-col items-center justify-center p-4">
       <header className="mb-8">
-        <h1 className="text-4xl font-bold text-yellow-400">
+        <h1 className="text-4xl font-bold text-yellow-400 drop-shadow-lg">
           ★ Rockstar Barnum & Co.
         </h1>
         <p className="text-lg mt-2 text-slate-300 text-center max-w-xl">
@@ -10,35 +10,35 @@ export default function Home() {
         </p>
       </header>
 
-      <section className="mb-10">
+      <section className="mb-10 max-w-2xl w-full">
         <h2 className="text-2xl font-semibold text-yellow-400">🚀 Our Mission</h2>
-        <p className="mt-2 max-w-3xl text-slate-300">
+        <p className="mt-2 text-slate-300">
           Building infrastructure to protect the past and engineer the future—digitally and physically. Our work spans historical preservation, AI automation, and global logistics.
         </p>
       </section>
 
-      <section className="mb-10">
+      <section className="mb-10 max-w-2xl w-full">
         <h2 className="text-2xl font-semibold text-yellow-400">🛠️ Current Platforms</h2>
         <ul className="list-disc list-inside mt-4 text-slate-300 space-y-2">
           <li>
-            <strong>Preservation STARZ</strong> — Cultural asset preservation in Gaza, Tyre, Baalbek & conflict zones.
+            <span className="font-bold text-white">Preservation STARZ</span> — Cultural asset preservation in Gaza, Tyre, Baalbek & conflict zones.
             <a href="https://preservationstarz.online" target="_blank" rel="noopener" className="text-blue-400 ml-2 underline">Visit</a>
           </li>
           <li>
-            <strong>Phoenecia Online</strong> — A global directory & support platform for Lebanese-owned businesses.
+            <span className="font-bold text-white">Phoenecia Online</span> — A global directory & support platform for Lebanese-owned businesses.
             <a href="https://phoenecia.online" target="_blank" rel="noopener" className="text-blue-400 ml-2 underline">Explore</a>
           </li>
         </ul>
       </section>
 
-      <section className="mb-10">
+      <section className="mb-10 max-w-2xl w-full">
         <h2 className="text-2xl font-semibold text-yellow-400">🤝 Collaborations</h2>
         <p className="text-slate-300 mt-2">
           Partnered with Lockheed Martin, Google, University of Bridgeport, and more.
         </p>
       </section>
 
-      <section className="mb-10">
+      <section className="mb-10 max-w-2xl w-full">
         <h2 className="text-2xl font-semibold text-yellow-400">📬 Contact & Support</h2>
         <p className="text-slate-300 mt-2">
           Email: <a href="mailto:admin@rockstarbarnum.com" className="text-green-400 underline">admin@rockstarbarnum.com</a>
@@ -60,3 +60,4 @@ export default function Home() {
     </main>
   );
 }
+
